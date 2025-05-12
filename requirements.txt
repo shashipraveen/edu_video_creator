@@ -1,0 +1,5 @@
+moviepy
+gTTS
+python-pptx
+nltk
+pyttsx3  # Optional, if using offline TTS
